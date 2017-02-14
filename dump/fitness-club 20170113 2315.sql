@@ -412,17 +412,8 @@ INSERT INTO statuses_clients VALUES
 -- Вывод данных для таблицы clients
 --
 INSERT INTO clients VALUES
-(2, 'sany', 'sany', 'sany_met@mail.ru', '$2y$10$bzdO34EkMYYA7BWhzzKeUelpI.ac8oI.hsWA9ndmJNAeWyYMf0WOm', 1),
-(3, 'саша', 'li', 'user@gmail.com', '$2y$10$mqf5LmFC1QaKl.3E7ZOsbebKBqhA/rIC18Kz5xK9v6Zcw5xcOde7u', 2),
-(4, 'sany', 'sany', 'li@gn.com', '$2y$10$5Z1rcaiZIr8XA3meJRGvouAw.tpbQ6BeC5WSRh.Sf2Scf40WWkzH.', 2),
-(5, 'sany', 'sany', 'sanyt@mail.ru', '$2y$10$eDjvHLI1/YPWxvV/ORcuBekni9vBnyxqJ6HkNi.FARHmHvVG7wLpe', 1),
-(6, 'ss', 'ss', 'ss@mail.ru', '$2y$10$spBuZGZcjZ54emXUNX1jv.BaPJpjGtXO9jVa2f0wf2u60Jy6/yFBu', 2),
-(7, 'ff', 'ff', 'ff@mail.ru', '$2y$10$5/ZA9.uLycV2wSvGI82zIuI719nOCEAbSPHOuHz/XhHNobqr3ogqK', 2),
-(8, 'hh', 'hh', 'hh@mail.ru', '$2y$10$shF9T4YlywBbrdyXkTU.cOdJcSpbFI4uIXaFtNd/pukn1w0o7aIrm', 2),
-(9, 'gg', 'gg', 'gg@mail.ru', '$2y$10$CtBmwu2QZQ4T.glkKAYKoeMB.KztU0inGi4gMOuup2/nIUsjucLKy', 2),
-(10, 'ss', 'ss', 'ss@gmail.com', '$2y$10$zYpWq8q8YUAqD3TwzG9NTuajHNn5VkDFKOUaOcmflUdJchglRGQFy', 2),
-(11, 'user', 'user', 'user@mail.ru', '$2y$10$LoXUpNuG0pKSAhA2eqMgcefN60sDb24D3Qi25v9QC2UugJWNQMrba', 2),
-(12, 'hh', 'hh', 'hhf@mail.ru', '$2y$10$.yKO.FtoenurLQIrtCYLReMAnhvC9iopKz951pivBtU0qjLISjm.u', 2);
+(1, 'admin', 'admin', 'admin@mail.ru', '$2y$10$bzdO34EkMYYA7BWhzzKeUelpI.ac8oI.hsWA9ndmJNAeWyYMf0WOm', 1),
+(2, 'user', 'user', 'user@gmail.com', '$2y$10$mqf5LmFC1QaKl.3E7ZOsbebKBqhA/rIC18Kz5xK9v6Zcw5xcOde7u', 2);
 
 -- 
 -- Вывод данных для таблицы gym
@@ -446,8 +437,8 @@ INSERT INTO clients VALUES
 -- Вывод данных для таблицы messages
 --
 INSERT INTO messages VALUES
-(26, 'rrrrrrrrrrr', '2017-01-10 13:42:22', 8),
-(27, 'dfghdh he yth yh', '2017-01-10 13:41:09', 8);
+(26, 'hello', '2017-01-10 13:42:22', 8),
+(27, 'hello2', '2017-01-10 13:41:09', 8);
 
 -- 
 -- Вывод данных для таблицы news
