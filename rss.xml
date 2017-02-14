@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <atom:link href="http://localhost/rss.xml" rel="self" type="application/rss+xml"/>
+        <title>FITNESS CLUB</title>
+        <link>http://localhost/index.php</link>
+        <description>Новости клуба</description>
+
+        <image>
+            <url>http://localhost/style/images/news.bmp</url>
+            <link>http://localhost/index.php</link>
+            <title>Fitness-club</title>
+        </image>
+
+
+        <item>
+            <title>5 key fitness trends</title>
+            <link>http://localhost/news/news/33</link>
+            <description>Signing up for a gym membership is a big step for many first-timers, but it’s only the start of your health and fitness quest. Think about what you want to achieve and how you plan to go about it. </description>
+            <pubDate>Sun, 01 Jan 2017 15:00:00 +0200</pubDate>
+
+        </item>
+        <item>
+            <title>Do!Have a plan</title>
+            <link>http://localhost/news/news/29</link>
+            <description>The world of fitness is always changing. And 2016 has been a year of crazy innovation across the fitness industry. Perhaps nothing will define 2016 more than Pokémon GO (more on that later!) Maybe the Mannequin Challenge or the unstoppable rise of the “Dab”? For gym-goers, there has been no shortage of new technology that has revolutionised the way we keep fit. </description>
+            <pubDate>Sun, 01 Jan 2017 15:00:00 +0200</pubDate>
+
+        </item>
+        <item>
+            <title>Think about your nutrition</title>
+            <link>http://localhost/news/news/34</link>
+            <description>It’s become a bit of a cliché in the health and fitness world, but the fact remains that you really cannot outwork a bad diet, no matter how often you go for a gym workout.  </description>
+            <pubDate>Sun, 01 Jan 2017 15:00:00 +0200</pubDate>
+
+        </item>
+
+    </channel>
+</rss>
